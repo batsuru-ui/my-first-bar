@@ -1,2 +1,4 @@
 # my-first-bar
-i can do html and java
+let a = 10 
+let b = 20 
+console,log(a+b)
